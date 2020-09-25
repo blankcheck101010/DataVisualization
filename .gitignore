@@ -1,0 +1,6 @@
+######
+# Type in the directory, and/or filetype to ignore
+*.pyc
+*.DS_Store
+*.pk
+*.log
